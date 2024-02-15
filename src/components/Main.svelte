@@ -33,11 +33,11 @@
 		<div class="flex flex-col lg:justify-center text-center lg:text-left pag-6 md:gap-8 lg:gap-10">
 			<h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
 				Caw! I'm<br />
-				<span class="poppins text-violet-400">Michal Ručka</span><br />
+				<span class="poppins text-blue-400">Michal Ručka</span><br />
 				<span class="text-4xl sm:text-5xl md:text-6xl">Computer science student</span>
 			</h2>
 			<p class="text-base sm:text-lg md:text-xl">
-				My <span class="text-violet-400">favourite tech</span> Lorem ipsum dolor sit amet, consectetuer
+				My <span class="text-blue-400">favourite tech</span> Lorem ipsum dolor sit amet, consectetuer
 				adipiscing elit. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo.
 				Nulla pulvinar eleifend sem. Nunc auctor. Duis condimentum augue id magna semper rutrum. Neque
 				porro quisquam est, qui dolorem ipsum quia dolor sit amet
@@ -48,7 +48,7 @@
 				target="_blank"
 			>
 				<div
-					class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
+					class="absolute top-0 right-full w-full h-full bg-blue-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
 				></div>
 				<h4 class="relative z-9">Get in touch &rarr;</h4>
 			</a>
@@ -61,13 +61,13 @@
 		<div class="flex flex-col gap-2 text-center">
 			<h6 class="text-large sm:text-xl md:text-2xl">Some of my best projects.</h6>
 			<h3 class="text-semibold text-3xl sm:text-3xl md:text-5xl">
-				Curious to <span class="poppints text-violet-400">see</span> my work?
+				Curious to <span class="poppints text-blue-400">see</span> my work?
 			</h3>
 		</div>
 		<a
 			href="https://youtu.be/nK-7S9HzFjo?si=y-OEIQ-7IAndwCPy"
 			target="_blank"
-			class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -m-4 sm:-mb-0 -mt:10 hover:border-violet-700 duration-200"
+			class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -m-4 sm:-mb-0 -mt:10 hover:border-blue-700 duration-200"
 		>
 			<i class="fa-regular fa-circle-play"></i>
 		</a>
@@ -75,7 +75,7 @@
 			<Step step={steps[0]}>
 				<p>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-					<strong class="text-violet-400"
+					<strong class="text-blue-400"
 						>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 					</strong>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -84,7 +84,7 @@
 			<Step step={steps[1]}>
 				<p>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-					<strong class="text-violet-400"
+					<strong class="text-blue-400"
 						>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 					</strong>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -93,7 +93,7 @@
 			<Step step={steps[2]}>
 				<p>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-					<strong class="text-violet-400"
+					<strong class="text-blue-400"
 						>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 					</strong>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -102,7 +102,7 @@
 			<Step step={steps[3]}>
 				<p>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-					<strong class="text-violet-400"
+					<strong class="text-blue-400"
 						>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 					</strong>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -111,7 +111,7 @@
 			<Step step={steps[4]}>
 				<p>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-					<strong class="text-violet-400"
+					<strong class="text-blue-400"
 						>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 					</strong>
 					Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -121,11 +121,11 @@
 	</section>
 	<section id="about" class="py-20 pt-10 lg:pt-16 lg:py-32 flex flex-col gap-14 sm:gap-20 relative">
 		<div
-			class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-violet-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-violet-700 py-4"
+			class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-blue-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-blue-700 py-4"
 		>
 			<h6 class="text-lg sm:text-xl md:text-2xl">Want to know more?</h6>
 			<h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-				A bit <span class="poppins text-violet-400">about</span> me
+				A bit <span class="poppins text-blue-400">about</span> me
 			</h3>
 		</div>
 		<p class="mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl">I am . . .</p>
